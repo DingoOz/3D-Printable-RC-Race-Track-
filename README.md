@@ -45,4 +45,7 @@ Deviations from the rules include:
 Recommended to use .2mm layers. No supports are required. Suggest printing in batches as large as the print surface allows.
 
 The use of PLA has been tested successfully. The clip requires a small amount of flexability which PLA is capable of providing.
+
+![Printing Yellow Lines] (https://github.com/DingoOz/3D-Printable-RC-Race-Track-/blob/master/Printing%20centerlines.jpg)
+
  
