@@ -30,7 +30,7 @@ Each piece interlocks with each other piece in a uniform manner. Any individual 
 
 To secure the connection and prevent pieces moving apart, a printable clip is included which is supported in the design without creating a visual protrusion. 
 
-!(Initiatl test of outside pieces)[https://github.com/DingoOz/3D-Printable-RC-Race-Track-/blob/master/Track_layout1.jpg]
+![Initial test of outside pieces](https://github.com/DingoOz/3D-Printable-RC-Race-Track-/blob/master/Track_layout1.jpg)
 
 **Design**
 
