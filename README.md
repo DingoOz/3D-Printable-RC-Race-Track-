@@ -30,6 +30,8 @@ Each piece interlocks with each other piece in a uniform manner. Any individual 
 
 To secure the connection and prevent pieces moving apart, a printable clip is included which is supported in the design without creating a visual protrusion. 
 
+!(Initiatl test of outside pieces)[https://github.com/DingoOz/3D-Printable-RC-Race-Track-/blob/master/Track_layout1.jpg]
+
 **Design**
 
 The design attempts to comply with the DIYrobocar rules (se "Track Specs here": https://diyrobocars.com/110th-scale-race-rules/)
