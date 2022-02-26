@@ -1,4 +1,5 @@
 3D Printable RC Race Track
+Licensed under CC BY-SA
 
 **Summary**
 
